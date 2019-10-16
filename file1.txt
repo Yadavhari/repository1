@@ -1,2 +1,6 @@
 hello world this is harish
 i want to modify file
+class hello
+{
+}
+
