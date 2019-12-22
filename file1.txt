@@ -2,4 +2,7 @@ class hello
 {
 print("hello world")
 }
-
+class now
+{
+print("hello updated")
+}
